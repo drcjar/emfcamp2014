@@ -1,0 +1,5 @@
+\beamer@endinputifotherversion {3.10pt}
+\beamer@sectionintoc {1}{Intro, is there really a problem?}{3}{0}{1}
+\beamer@sectionintoc {2}{Why is it so suboptimal?}{8}{0}{2}
+\beamer@sectionintoc {3}{What to do?}{10}{0}{3}
+\beamer@sectionintoc {4}{Thanks, questions and discussion}{11}{0}{4}
